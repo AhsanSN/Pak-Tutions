@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Tutions Listing</ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="about()">About</button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+    
+  <ion-list no-lines>
+      
+          <ion-item *ngFor="let transaction of numbers.slice().reverse()">
+            <ion-card *ngIf="transaction.status == 'new'" color="light" (click)="openJob(transaction)" no-padding no-margin style="width: 100%;">
+              <ion-card-header style="padding: 10px 25px 0px 15px;">
+                <div>{{transaction.companyName}}</div>
+                <ion-card-title>{{transaction.title}}</ion-card-title>
+              </ion-card-header>
+              <ion-card-content>
+                {{transaction.skills}}
+              </ion-card-content>
+            </ion-card>  
+          </ion-item>
+          
+  </ion-list>
+
+  <p ion-text text-center>Come back every half an hour to find new Tutions on your dashboard.</p>
+  <p ion-text text-center>Total Tutions found on your dashboard = {{nNumbers}}</p>
+</ion-content>
+

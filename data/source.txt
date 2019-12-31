@@ -1,0 +1,555 @@
+https://jobee.pk/job/jobsearch
+
+
+{"model":{},"pageNumber":1,"pageSize":20}
+
+
+
+{
+   "totalJobs":3994,
+   "jobs":[
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36686,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36686,
+         "jobIDEncrypted":"680dd7b7c787f64d",
+         "title":"Receptionist / Front Desk Officer",
+         "jobDescription":"<p>IT Drill seeking an Operations Assistant (administrator/receptionist) for our business in an office-based role for an immediate start who will be supervised directly by the Operations Director and closely monitored on targets.</p>\n\n<p>Responsibilities and Duties:</p>\n\n<ul>\n\t<li>General administration duties</li>\n\t<li>Answering the telephone in a professional manner</li>\n\t<li>Dealing with customer queries via phone and email</li>\n\t<li>Liaising with high profile clients and companies</li>\n\t<li>Coordinating courses (assisting teachers, learners etc)</li>\n\t<li>General accounting duties (accepting and recording payments)</li>\n</ul>\n\n<p>Skills:</p>\n\n<ul>\n\t<li>Very good English communication skills (verbal &amp; written)</li>\n\t<li>Fast, accurate typing skills /Basic Level</li>\n\t<li>Can work well under pressure</li>\n\t<li>Excellent computer skills/ Interest In IT</li>\n\t<li>Be able to work well in a small/large team</li>\n\t<li>A positive and &#39;can do&#39; attitude</li>\n</ul>\n\n<p>Note:</p>\n\n<p>Any customer service experience (preferable but not mandatory)</p>\n",
+         "titleWithoutSpecialCharacters":"Receptionist-Front-Desk-Officer",
+         "companyName":"IT Drill (Professional training Institute)",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T15:38:23.24",
+         "postDate":"2019-12-28T08:53:59.433",
+         "experience":"1 Year",
+         "salaryRange":"15000 - 35000",
+         "skills":[
+            "Meetings Management",
+            "Performance Management",
+            "Communication Skills",
+            "Administrative Skills",
+            "Decision Making Skills",
+            "English",
+            "Punctual."
+         ],
+         "viewCount":14,
+         "numberOfPositions":2,
+         "isSalaryVisible":false,
+         "logo":"23596Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36685,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36685,
+         "jobIDEncrypted":"af2b6ab7b2dc72fc",
+         "title":"Showroom Sales Officer",
+         "jobDescription":"We are looking for a competent<strong> Sales Officer </strong>to work with <strong>LMT / Key Accounts</strong>.\n\n<ul>\n\t<li>Maintain &amp; Generate new clients</li>\n\t<li>Achievement Sales Targets</li>\n\t<li>Resolve the customer queries</li>\n\t<li>Coordinate with Credit Collation Team</li>\n\t<li>&nbsp;Experiences with Retail market will be preferred</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Showroom-Sales-Officer",
+         "companyName":"Bin Bakar International",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T15:04:23.873",
+         "postDate":"2019-12-28T08:48:43.823",
+         "experience":"3 Years",
+         "salaryRange":"40000 - 65000",
+         "skills":[
+            "Time Management",
+            "Interpersonal Skills",
+            "Communication Skills",
+            "Selling Skills.",
+            "Business Development",
+            "Sales"
+         ],
+         "viewCount":15,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36687,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36687,
+         "jobIDEncrypted":"1cf77d09ca08525f",
+         "title":"Data Entry Operator / Computer Operator",
+         "jobDescription":"We are looking for a competent <strong>Data&nbsp;Entry Operator / Computer Operator</strong>\n\n<ul>\n\t<li>Preparing and sorting documents for data entry</li>\n\t<li>Entering data into database software and checking to ensure the accuracy of the data that has been inputted</li>\n\t<li>Resolving discrepancies in information and obtaining further information for incomplete documents</li>\n\t<li>Creating data backups as part of a contingency plan</li>\n\t<li>Responding to information requests from authorised members</li>\n\t<li>Testing new database systems and software updates</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Data-Entry-Operator-Computer-Operator",
+         "companyName":"Bin Bakar International",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T15:03:41.433",
+         "postDate":"2019-12-28T09:03:19.877",
+         "experience":"3 Years",
+         "salaryRange":"20000 - 25000",
+         "skills":[
+            "Time Management",
+            "Communication Skills",
+            "Computer Skills",
+            "Data Entry"
+         ],
+         "viewCount":32,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36682,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Islamabad",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36682,
+         "jobIDEncrypted":"fbd7397238d45015",
+         "title":"Client Relation Officer - Intern",
+         "jobDescription":"<p>Creative Educational Services Pvt Ltd requires paid Intern - female..leading to permanent Job</p>\n\n<p>Responsibilities</p>\n\n<ul>\n\t<li>Call clients and inform them about our services</li>\n\t<li>Follow up, remind and convince clients to opt for our services</li>\n\t<li>Support the marketing team in daily administrative tasks</li>\n\t<li>Assist in marketing and advertising promotional activities (e.g. social media, direct mail and web)</li>\n\t<li>Prepare promotional presentations</li>\n\t<li>Help distribute marketing materials</li>\n\t<li>Manage and update company database and customer relationship management systems</li>\n\t<li>Help organize marketing events</li>\n</ul>\n\n<p>Requirements</p>\n\n<ul>\n\t<li>Strong communication skills, Urdu and English</li>\n\t<li>Solid understanding of different marketing techniques</li>\n\t<li>Excellent verbal and written communication skills</li>\n\t<li>Excellent knowledge of MS Office</li>\n\t<li>BS or Masters degree</li>\n</ul>\n\n<p>Internship leading to job</p>\n\n<p>Job Type: Internship</p>\n\n<p>Salary: Rs18, to Rs22, /month</p>\n",
+         "titleWithoutSpecialCharacters":"Client-Relation-Officer-Intern",
+         "companyName":"Creative Educational Services",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T14:55:41.383",
+         "postDate":"2019-12-28T07:39:48.41",
+         "experience":"Fresh",
+         "salaryRange":"15000 - 25000",
+         "skills":[
+            "Communication Skills",
+            "Client Support",
+            "Customer Service"
+         ],
+         "viewCount":12,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":"23695Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36680,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36680,
+         "jobIDEncrypted":"d708bb00bb6a1b9c",
+         "title":"Game Developer / Unity 3D Developer - Intern",
+         "jobDescription":"<p>Internship Opportunity for CS &ndash; Fresh Graduates Logic Squares is looking for Game Developer &ndash; Intern having Computer Science/ Information Technology/ Software Engineering background.</p>\n\n<p>Requirements:</p>\n\n<ul>\n\t<li>Must be a GAMER.</li>\n\t<li>FYP Must be in Game Development.</li>\n\t<li>Must have good knowledge of unity.</li>\n\t<li>Knowledge of Gaming Industry.</li>\n\t<li>Hard worker &amp; good learner.</li>\n\t<li>Please note that this Three months Paid Internship is leading to job depending upon performance evaluation.&nbsp;</li>\n</ul>\n\n<p>Location: Near Iqbal Town, Multan Road Lahore</p>\n",
+         "titleWithoutSpecialCharacters":"Game-Developer-Unity-3D-Developer-Intern",
+         "companyName":"Logic Squares",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T14:44:16.2",
+         "postDate":"2019-12-28T07:18:16.08",
+         "experience":"Less than 1 Year",
+         "salaryRange":"10000 - 15000",
+         "skills":[
+            "Games Development",
+            "UNITY",
+            "Unity 3D"
+         ],
+         "viewCount":10,
+         "numberOfPositions":2,
+         "isSalaryVisible":true,
+         "logo":"23368Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36679,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36679,
+         "jobIDEncrypted":"7b287a25c12ece0a",
+         "title":"Digital Marketing Manager / SEO Specialist",
+         "jobDescription":"We are looking for a <strong>Digital Marketing Manager / SEO Specialist<br />\n<br />\n<u>Role and Responsibilities</u></strong>\n\n<ul>\n\t<li>Generate, edit, publish and share engaging content daily (e.g. original text, photos, videos and news)</li>\n\t<li>Designs a Social Media Strategy in accordance with the marketing and SEO teams.</li>\n\t<li>Oversee social media accounts&rsquo; design (e.g. Facebook timeline cover, profile pictures and blog layout)</li>\n\t<li>Communicate with followers, respond to queries in a timely manner and monitor customer reviews</li>\n\t<li>Collaborate with other teams, like marketing, sales and customer service to ensure brand consistency</li>\n\t<li>Perform research on current benchmark trends and audience preferences</li>\n\t<li>Stay up-to-date with current technologies and trends in social media, design tools and applications</li>\n\t<li>Suggest and implement new features to develop brand awareness, like promotions and competitions</li>\n\t<li>Grows and expands company social media presence into new social media platforms, plus increases presence on existing platforms including Facebook, LinkedIn, Twitter, and Instagram</li>\n\t<li>Researches and monitors activity of company competitors</li>\n\t<li>Creates and distributes engaging written or graphic content in the form of e-newsletters, web page and blog content, or social media messages</li>\n\t<li>Community Management will be active for 14 Hours per day.</li>\n</ul>\n<strong><u>Qualifications and Education Requirements</u></strong>\n\n<ul>\n\t<li>Graduated with 4 year degree with focus on Marketing from a reputable university.</li>\n\t<li>2+ Years of Social Media Marketing experience in a corporate marketing or agency marketing role.</li>\n\t<li>2+ Years of Social Media Marketing in a B2B capacity.</li>\n\t<li>2+ Years of Social Media Marketing experience on all major social media platforms &ndash; LinkedIn, Twitter,</li>\n\t<li>Facebook, Google+, YouTube, and SlideShare.</li>\n\t<li>Has good skills in written English.</li>\n\t<li>Has a good command over content creating softwares like Adobe Photoshop, CorelDraw, Slideshare.</li>\n\t<li>Verifiable examples of social media marketing successes and wins.</li>\n\t<li>Impeccable attention to detail.</li>\n\t<li>Exceptional business writing skills and can visualize as well as convey a message into relevant and interesting content.</li>\n\t<li>Expert level skills in using and navigating social media networks and 3rd party tools.</li>\n</ul>\n<strong><u>Core Requirements:</u></strong>\n\n<ul>\n\t<li>Deep&nbsp;<strong>understanding of digital marketing</strong>&nbsp;and&nbsp;<strong>digital production</strong>.</li>\n\t<li>Proven experience delivering&nbsp;<strong>effective and innovative digital campaigns</strong>.</li>\n\t<li>Proven experience delivering a<strong>&nbsp;variety of digital assets</strong>,<strong>&nbsp;including rich media online ads, microsites, and social media applications</strong>.</li>\n\t<li>Experience managing&nbsp;<strong>successful social media campaigns</strong>, and a s<strong>olid understanding of social marketing</strong>.</li>\n\t<li>Solid understanding of&nbsp;<strong>web metrics, digital analytics, with the ability to generate, analyze and interpret data</strong>.</li>\n\t<li>Must be able to&nbsp;<strong>work under constant deadline pressure</strong>&nbsp;and manage multiple projects across multiple lines of business.</li>\n\t<li>Strong management skills, excellent oral and written communication skills.</li>\n\t<li>Experience delivering digital campaigns for mainstream products and services Proficient with Adobe Photoshop, Illustrator, InDesign, Framemaker, DreamWeaver etc.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Digital-Marketing-Manager-SEO-Specialist",
+         "companyName":"Dodhys Agencies (Pvt) Ltd.",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:33:02.807",
+         "postDate":"2019-12-28T06:39:34.13",
+         "experience":"4 Years",
+         "salaryRange":"50000 - 80000",
+         "skills":[
+            "Adobe Photoshop",
+            "Corel Draw",
+            "English",
+            "Good Writing Ability",
+            "Search Engine Optimization (SEO)",
+            "Social Media Marketing",
+            "Marketing writing",
+            "slideshare"
+         ],
+         "viewCount":15,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36666,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36666,
+         "jobIDEncrypted":"631894859f046332",
+         "title":"Office Boy",
+         "jobDescription":"We need&nbsp;<strong>Office Boy </strong>for our office.&nbsp;<br />\n<br />\nDuties include:\n<ul>\n\t<li>Clean the office</li>\n\t<li>Tea making and look after the office.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Office-Boy",
+         "companyName":"Experts Communication",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:29:28.833",
+         "postDate":"2019-12-27T18:51:19.993",
+         "experience":"Less than 1 Year",
+         "salaryRange":"10000 - 15000",
+         "skills":[
+            "Courtesy and Honesty.",
+            "Always Be Helping",
+            "Cleaning",
+            "Tea Making"
+         ],
+         "viewCount":13,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":"23639Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36678,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36678,
+         "jobIDEncrypted":"2953ce79b4c807a5",
+         "title":"Accountant / Accounts Executive",
+         "jobDescription":"We are looking for an <strong>Accountant / Accounts Executive</strong>\n\n<ul>\n\t<li>Prepare and examine the financial record</li>\n\t<li>Perform an overview of the financial operation</li>\n\t<li>Financial Statement prepare to report analysis budgeting costing project management</li>\n\t<li>Focus on immediate financial issue a management</li>\n\t<li>Preparation of balance sheet</li>\n\t<li>Asset Management</li>\n\t<li>Taxation and its analysis &nbsp;&nbsp;</li>\n\t<li>Prepare and examine the financial record</li>\n\t<li>Perform an overview of the financial operation</li>\n\t<li>Financial Statement prepare to report analysis budgeting costing project management</li>\n\t<li>Focus on immediate financial issue a management</li>\n\t<li>Preparation of balance sheet</li>\n\t<li>Asset Management</li>\n\t<li>Taxation and its analysis &nbsp;&nbsp;</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Accountant-Accounts-Executive",
+         "companyName":"Salim Winding Works",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:25:37.443",
+         "postDate":"2019-12-28T06:27:14.587",
+         "experience":"5 Years",
+         "salaryRange":"40000 - 60000",
+         "skills":[
+            "Accounts Services",
+            "Financial Services",
+            "Time Management",
+            "Team-Builder",
+            "Accounting"
+         ],
+         "viewCount":32,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36676,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36676,
+         "jobIDEncrypted":"5cc1831dcd341df1",
+         "title":"Head Of Sales",
+         "jobDescription":"<p><strong>Job Description</strong></p>\n\n<p>The head of Sales has the primary role of leading the sales department, overseeing activities of the junior and senior professionals and monitoring performance as a whole. The head of Sales defines and communicates the business KPI&rsquo;s and targets to junior sales personnel on a regular basis.</p>\n\n<p><strong><em>Responsibilities:</em></strong></p>\n\n<ul>\n\t<li>The head of sales manages the departmental calendar in regard to fundraising priorities, inclusive of launches, promotions, and campaign activities for the purpose of maximizing fundraising opportunities.</li>\n\t<li>He will design a road-map that will lead to the achievement of the department&rsquo;s goals as well as the overall goals of the business.</li>\n\t<li>He also monitors and observes the giving and makes forecasts, identifying new trends ahead of the curve.</li>\n\t<li>The Head of Sales also works closely with the analytics department in processing relevant data and information, translating it into actionable strategies that drive fundraising and lead to achievement of goals.</li>\n\t<li>Continual training and development of all members of the sales team.</li>\n\t<li>Working on Account management plans with the sales account managers.</li>\n\t<li>Monthly reporting on Sales performance against budget and reporting on variance.</li>\n</ul>\n\n<p><strong><em>Requirements:</em></strong></p>\n\n<ul>\n\t<li>Proven experience as Sales or Marketing Manager of years, meeting or exceeding targets.</li>\n\t<li>Ability to communicate, present and influence all levels of the organizations including executives and C-level.</li>\n\t<li>Proven ability to drive the sales process from plan to close.</li>\n\t<li>Demonstrate experience as head of sales, developing client-focused, differentiated and achievable solutions.</li>\n\t<li>Excellent listening, negotiation and presentation skills.</li>\n\t<li>Excellent verbal and written communication skills.</li>\n\t<li>MBA/ M.Phil. Marketing or equivalent.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Head-Of-Sales",
+         "companyName":"Together Strategic & Development Consultants",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:23:08.323",
+         "postDate":"2019-12-28T06:12:21.077",
+         "experience":"5 Years",
+         "salaryRange":"70000 - 85000",
+         "skills":[
+            "Communication Skills",
+            "Business Development",
+            "Marketing",
+            "Sales"
+         ],
+         "viewCount":8,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36677,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36677,
+         "jobIDEncrypted":"d6c1f7fb14f51133",
+         "title":"Sales Consultant / Financial Advisor",
+         "jobDescription":"We are hiring for a&nbsp;<strong>Sales Consultant / Financial Advisor</strong>\n\n<ul>\n\t<li>Call potential clients to expand their customer base</li>\n\t<li>Interview prospective clients to get data about their financial resources and discuss existing coverage</li>\n\t<li>Explain the features of various policies</li>\n\t<li>Analyze clients&rsquo; current insurance policies and suggest additions or changes</li>\n\t<li>Customize insurance programs to suit individual clients</li>\n\t<li>Handle policy renewals</li>\n\t<li>Maintain electronic and paper records</li>\n\t<li>Help policyholders settle claims</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Sales-Consultant-Financial-Advisor",
+         "companyName":"Efu Life Assurance",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:21:42.373",
+         "postDate":"2019-12-28T06:14:36.567",
+         "experience":"Fresh",
+         "salaryRange":"15000 - 25000",
+         "skills":[
+            "Communication Skills",
+            "Business Development",
+            "Sales"
+         ],
+         "viewCount":4,
+         "numberOfPositions":1,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36675,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36675,
+         "jobIDEncrypted":"a91d05affb7c16fe",
+         "title":"Marketing Executive",
+         "jobDescription":"<p>We are looking Female for services of a &quot;<strong>Marketing Executive</strong>&quot; for International Marketing of Textile Yarn &amp; Fabric</p>\n\n<ul>\n\t<li>The ideal candidate must have strong communication skills and English Fluency</li>\n\t<li>Excellent Organizational Skill</li>\n\t<li>Working knowledge of marketing terminology and practices</li>\n\t<li>Candidate must have experience Email Marketing&nbsp;</li>\n\t<li><strong>1 Bonus, Convenience Allowance, Medical Allowance &amp; Mobile Allowance will be provided</strong></li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Marketing-Executive",
+         "companyName":"Skytex",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:19:48.273",
+         "postDate":"2019-12-28T05:17:47.65",
+         "experience":"2 Years",
+         "salaryRange":"30000 - 40000",
+         "skills":[
+            "Communication Skills",
+            "Marketing"
+         ],
+         "viewCount":11,
+         "numberOfPositions":3,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36673,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Sialkot",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36673,
+         "jobIDEncrypted":"3af1450986140d17",
+         "title":"Office Assistant / Office Coordinator",
+         "jobDescription":"We are looking to hire a male employee in our office for order feeding in ERP, office management related tasks, etc.&nbsp;\n<ul>\n\t<li>Interested candidates should apply with their updated profile.</li>\n\t<li>Further details can be provided during the interview.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Office-Assistant-Office-Coordinator",
+         "companyName":"Tempo Enterprises",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:13:17.173",
+         "postDate":"2019-12-28T04:36:02.74",
+         "experience":"Fresh",
+         "salaryRange":"15000 - 20000",
+         "skills":[
+            "MS Excel",
+            "Communication Skills",
+            "Administrative Skills",
+            "ERP"
+         ],
+         "viewCount":8,
+         "numberOfPositions":2,
+         "isSalaryVisible":true,
+         "logo":null
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36672,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36672,
+         "jobIDEncrypted":"ddfea98e9a0eab8c",
+         "title":"Customer Service Representative",
+         "jobDescription":"<p>NJ GROUP. is looking for call center agents in Karachi&nbsp;who have excellent communication skills for its International Sales Campaign (Night shift 08:00 pm - 05:00 am).<br />\nBonuses will be offered along with a basic salary to experienced agents or starters who have excellent communication skills.<br />\n<br />\nThis is a very good opportunity where you can earn up to k every month.<br />\n<br />\nWe offer:</p>\n\n<ul>\n\t<li>Excellent career growth opportunity</li>\n\t<li>Job security</li>\n\t<li>Punctuality allowance</li>\n\t<li>Fuel Allowance</li>\n</ul>\n\n<p>The requirement for call center agents:</p>\n\n<ul>\n\t<li>Excellent selling, communication and negotiation skills</li>\n\t<li>Prioritizing, time management and organizational skills</li>\n\t<li>Should be target oriented, hardworking and punctual</li>\n\t<li>Able to work in night shift</li>\n\t<li>Applicant should preferably have previous telesales experience in a call center</li>\n\t<li>Fresh candidates with good communication skills are also encouraged to apply.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Customer-Service-Representative",
+         "companyName":"NJ GROUP",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T13:04:03.183",
+         "postDate":"2019-12-27T23:36:08.357",
+         "experience":"Less than 1 Year",
+         "salaryRange":"15000 - 85000",
+         "skills":[
+            "Communication Skills",
+            "Customer Service"
+         ],
+         "viewCount":18,
+         "numberOfPositions":10,
+         "isSalaryVisible":true,
+         "logo":"23676Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36671,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Lahore",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36671,
+         "jobIDEncrypted":"c074277cb8bbf44e",
+         "title":"2D Artist / 3D Artist",
+         "jobDescription":"We have an open position for a <strong>2D Artist / 3D Artist</strong><br />\n<br />\nAs a 2D/3D artist you will be responsible for creating virtual worlds and characters.<br />\nYou must be well versed with industry standard 3D modeling programs and tools. Good spatial skills and a well-honed sense of color and design will help you succeed in this job.<br />\n<br />\nResponsibilities\n<ul>\n\t<li>Create and manage digital assets</li>\n\t<li>Interpret concept art and sketches to create virtual characters, environment and props</li>\n\t<li>Follow design guidelines, asset naming conventions and other technical constraints</li>\n\t<li>Prototype and iterate on models and characters based on feedback from team members</li>\n\t<li>Create textures and UV maps</li>\n\t<li>Optimize, refine and correct model geometry</li>\n\t<li>Rig models and characters for animation</li>\n\t<li>Work with artists, animators and programmers to execute projects on time</li>\n\t<li>Keep abreast with the latest developments in 3D design, capture and modeling tools and technologies</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"2D-Artist-3D-Artist",
+         "companyName":"Axisloop Studio",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T12:59:52.657",
+         "postDate":"2019-12-27T20:38:53.193",
+         "experience":"1 Year",
+         "salaryRange":"20000 - 25000",
+         "skills":[
+            "2D/3D Rendering",
+            "3D Animation",
+            "3D Graphics"
+         ],
+         "viewCount":2,
+         "numberOfPositions":2,
+         "isSalaryVisible":true,
+         "logo":"23693Logo.jpg"
+      },
+      {
+         "location":[
+            {
+               "jobLocationID":0,
+               "jobID":36669,
+               "countryID":0,
+               "country":"Pakistan",
+               "cityID":null,
+               "cityText":"Karachi",
+               "jobShiftID":0,
+               "name":null
+            }
+         ],
+         "jobID":36669,
+         "jobIDEncrypted":"d633fe8fb6a4ae61",
+         "title":"Saloon Assistant",
+         "jobDescription":"S&#39;nE international beauty salon management&nbsp;\n<ul>\n\t<li>We are looking for a Female Assistant for our beauty salon management.</li>\n\t<li>Good salary package and commission will be provided</li>\n\t<li>Pick and drop also provide.</li>\n</ul>\n",
+         "titleWithoutSpecialCharacters":"Saloon-Assistant",
+         "companyName":"S'nE",
+         "appliedByDate":"0001-01-01T00:00:00",
+         "expiredDate":"2020-03-27T00:00:00",
+         "publishDate":"2019-12-28T12:51:23.22",
+         "postDate":"2019-12-27T19:31:00.5",
+         "experience":"1 Year",
+         "salaryRange":"30000 - 45000",
+         "skills":[
+            "Time Management",
+            "Administrative Skills",
+            "Saloon Management"
+         ],
+         "viewCount":20,
+         "numberOfPositions":7,
+         "isSalaryVisible":true,
+         "logo":null
+      }
+   ],
+   "jobsByCity":null,
+   "pageLink":null
+}

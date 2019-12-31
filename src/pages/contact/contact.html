@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Tution Details</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+    <ion-item class="ion-item">
+      <ion-label>Title: {{title}}</ion-label>
+    </ion-item>
+    <div class="ion-item" style="width: 100%;font-size: 1.6rem;padding: 15px;">
+      <div>Description: {{description}}</div>
+    </div>
+    <ion-item class="ion-item">
+      <ion-label>Address: {{address}}</ion-label>
+    </ion-item>
+    <ion-item class="ion-item">
+      <ion-label>City: {{city}}</ion-label>
+    </ion-item>   
+    <ion-item class="ion-item">
+      <ion-label>Pay: {{pay}}</ion-label>
+    </ion-item>
+    <ion-item class="ion-item">
+      <ion-label>Phone: {{phone}}</ion-label>
+    </ion-item>
+
+</ion-content>
+<ion-footer>
+  <a href="tel:{{phone}}">
+  <button ion-button full (click)="apply()">Call</button>
+</a>
+</ion-footer>

@@ -1,0 +1,9 @@
+{
+  "name": "wChat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a9020047",
+  "id": "a9020047"
+}
